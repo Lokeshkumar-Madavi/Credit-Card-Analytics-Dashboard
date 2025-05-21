@@ -5,7 +5,7 @@
 This project presents a comprehensive **Credit Card Weekly Dashboard** developed using Power BI. The goal is to provide stakeholders with **real-time visibility into key performance metrics** across customer segments, card categories, transaction types, and revenue channels. This dashboard helps streamline decision-making by enabling detailed tracking and analysis of trends in card usage, revenue generation, and customer behavior.
 
 ---
-[Click here to explore the interactive Power BI dashboard] (https://app.powerbi.com/view?r=eyJrIjoiN2VkNTZjYjktODI2Ni00MDlmLTgyODYtMDk5MzdiNTJjM2JjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 )
+[Click here to explore the interactive Power BI dashboard] (#https://app.powerbi.com/view?r=eyJrIjoiN2VkNTZjYjktODI2Ni00MDlmLTgyODYtMDk5MzdiNTJjM2JjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 )
 
 ## 2. Data Structure Overview
 
